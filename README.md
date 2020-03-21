@@ -1,6 +1,6 @@
 # Tugas CV
  Tugas membuat CV Pemograman Mobile
-## Informaasi
+## Informasi
 ## Nama : Wandi Syahid Abdullah
 ## NIM : 20180801387
 
